@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+}
+
+.square {
+    height: 10rem;
+    width: 10rem;
+    font-size: 8rem ;
+}
